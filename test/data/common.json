@@ -1,0 +1,104 @@
+{
+    "login": {
+        "username": "01684403513",
+        "password": "Asdf@1234"
+    },
+    "changepassword": {
+        "oldPassword": "Asdf@1234",
+        "newPassword": "User@12345",
+        "confirmPassword": "User@12345",
+        "wrongpassword": "User@1233"
+    },
+    "accountInfo": {
+        "fromAccountNo": "0200010000033",
+        "toAccountNo": "0200010000034",
+        "amount": "10"
+    },
+    "intraBeneficiary": {
+        "accountNo": "0200050000214",
+        "duplicateaccountNo": "0200050000214"
+    },
+    "npsbBeneficiaryacc": {
+        "accountno": "11223344556677",
+        "duplicateaccno": "11223244556677",
+        "nickname": "Moon",
+        "accholdername": "Moon Rahman",
+        "mobileno": "01886593933"
+    },
+    "npsbBeneficiarycard": {
+        "cardno": "011223354556677",
+        "duplicatecardno": "011223354556677",
+        "nickname": "Mahabuba",
+        "cardholdername": "Rahman",
+        "mobileno": "01886593933"
+    },
+    "beftnBeneficiaryacc": {
+        "accountno": "995544220012345",
+        "duplicateaccno": "995544220012346",
+        "nickname": "Munia",
+        "accholdername": "Moon Rahman",
+        "mobileno": "01886593933"
+    },
+    "beftnBeneficiarycard": {
+        "cardno": "987456322852321",
+        "duplicatecardno": "987456322852322",
+        "nickname": "muna",
+        "cardholdername": "Mahabuba Rahman",
+        "mobileno": "01886593933"
+    },
+    "intraFTBeneficiaryInfo": {
+        "searchByName": "Titu",
+        "beneficiaryAccountNo": "0200 - 010000035",
+        "amount": "10"
+    },
+    "BEFTNAccountBeneficiaryInfo": {
+        "searchByName": "Ridlee",
+        "beneficiaryAccountNo": "3642 - 791546751",
+        "amount": "10"
+    },
+    "BEFTNCardBeneficiaryInfo": {
+        "searchByName": "Tuhin",
+        "beneficiaryAccountNo": "4545 - 454545454545",
+        "amount": "10"
+    },
+    "NPSBAccountBeneficiaryInfo": {
+        "searchByName": "Ridlee",
+        "beneficiaryAccountNo": "3642 - 791546751",
+        "amount": "10"
+    },
+    "NPSBCardBeneficiaryInfo": {
+        "searchByName": "Tuhin",
+        "beneficiaryAccountNo": "4545 - 454545454545",
+        "amount": "10"
+    },
+    "otpValue": {
+        "otp": "1234"
+    },
+    "mobileRecharge": {
+        "toMobileNo": "01716626454",
+        "rechargeAmount": "20",
+        "operatorType": "প্রিপেইড"
+    },
+    "largeAmount": {
+        "amount": "10000000000",
+        "rechargeAmount": "2000"
+    },
+    "mfsBeneficiaryInfo": {
+        "nagadNumber": "01684403519",
+        "nickName": "Jamal"
+    },
+    "nagadTransfer": {
+        "toAccBeneficiary": "Tisha",
+        "amount": "50"
+    },
+    "emi": {
+        "emiAmount": "1000",
+        "emiTenure": "12" ,
+        "time": "6"
+    },
+    "advance":{
+        "amount": "10000",
+        "time": "6",
+        "rate": "10"
+    }
+}
